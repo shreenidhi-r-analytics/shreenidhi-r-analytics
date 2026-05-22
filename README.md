@@ -6,6 +6,7 @@ Aspiring Data Analyst skilled in:
 - Excel
 - ETL
 - Data Visualization
+- Python
 
 ## Projects
 - Customer Churn Dashboard
