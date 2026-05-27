@@ -1,4 +1,4 @@
-# Hi, I'm Shreenidhi 👋
+# Hi, I'm Shreenidhi 
 
 Aspiring Data Analyst skilled in:
 - Power BI
@@ -9,6 +9,6 @@ Aspiring Data Analyst skilled in:
 - Python
 
 ## Projects
-- Customer Churn Dashboard
-- HR Analytics Dashboard
+- Churn  Analysis Dashboard
+- clinical patient flow and bed occupancy inshights
 - Sales Performance Analysis
